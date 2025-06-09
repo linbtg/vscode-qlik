@@ -1,7 +1,7 @@
 {
-  "name": "qlik",
-  "displayName": "Qlik",
-  "description": "Qlik script support for Visual Studio Code",
+  "name": "",
+  "displayName": "",
+  "description": " script support for Visual Studio Code",
   "version": "0.5.0",
   "publisher": "Gimly81",
   "author": {
@@ -18,22 +18,22 @@
   "categories": [
     "Languages"
   ],
-  "homepage": "https://github.com/Gimly/vscode-qlik/blob/master/README.md",
+  "homepage": "https://github.com/Gimly/vscode-/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gimly/vscode-qlik.git"
+    "url": "https://github.com/Gimly/vscode-.git"
   },
   "icon": "images/icon.png",
   "bugs": {
-    "url": "https://github.com/Gimly/vscode-qlik/issues"
+    "url": "https://github.com/Gimly/vscode-/issues"
   },
   "contributes": {
     "languages": [
       {
-        "id": "qlik",
+        "id": "",
         "aliases": [
           "QlikView",
-          "qlik"
+          ""
         ],
         "extensions": [
           ".qvs"
@@ -43,15 +43,15 @@
     ],
     "grammars": [
       {
-        "language": "qlik",
+        "language": "",
         "scopeName": "source.qvs",
         "path": "./syntaxes/qvs.tmLanguage"
       }
     ],
     "snippets": [
       {
-        "language": "qlik",
-        "path": "./snippets/qlik.json"
+        "language": "",
+        "path": "./snippets/.json"
       }
     ]
   },
